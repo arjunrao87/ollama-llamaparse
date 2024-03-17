@@ -6,3 +6,8 @@ Ask questions from a PDF document using
 - Mistral (LLM model)
 - nomic-embed-text (LLM embeddings)
 - ChromaDB (vectordb)
+
+Features (nahhht)
+- No Langchain 
+- No memory/reasoning
+- No optimization
