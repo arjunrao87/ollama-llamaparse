@@ -1,7 +1,7 @@
 # ollama-llamaparse
 
 Ask questions from a PDF document using 
-- LlamaParse
+- LlamaParse (Document parser)
 - Ollama (local LLM executor)
 - Mistral (LLM model)
 - nomic-embed-text (LLM embeddings)
